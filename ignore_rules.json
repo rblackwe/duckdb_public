@@ -1,0 +1,12 @@
+  [
+  {
+    "id": "BOT-60146430",
+    "value": "*|BOT-60146430|*",
+    "note": "Ignore bot-related rule"
+  },
+  {
+    "id": "BOT-60146430x",
+    "value": "*|BOT-60146430x|*",
+    "note": "Ignore bot-related rulex"
+  }
+]
